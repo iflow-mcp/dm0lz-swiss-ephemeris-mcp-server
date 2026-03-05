@@ -1,0 +1,2 @@
+[2026-03-05 22:07:07] [分析] 项目分析结果：Node.js项目，使用MCP SDK，支持stdio和HTTP协议，非SKILL项目，非MCP代理服务，项目正常，提供4个工具（calculate_planetary_positions、calculate_transits、calculate_solar_revolution、calculate_synastry）
+[2026-03-05 22:07:30] [成功] 本地测试通过，检测到4个工具
